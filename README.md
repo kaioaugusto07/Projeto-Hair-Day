@@ -1,6 +1,6 @@
 # Projeto Hair Day
 
-*Hair Day é um sistema web intuitivo e responsivo que permite agendar e gerenciar seus serviços de forma prática e eficiente.*
+*Hair Day é um sistema web de Barbearia intuitivo e responsivo que permite agendar e gerenciar seus serviços de forma prática e eficiente.*
 
 ## Tecnologias
 - *HTML5*
