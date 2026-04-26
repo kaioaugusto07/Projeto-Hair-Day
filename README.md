@@ -2,6 +2,8 @@
 
 *Hair Day é um sistema web de Barbearia intuitivo e responsivo que permite agendar e gerenciar seus serviços de forma prática e eficiente.*
 
+> AINDA COM PEQUENOS ERROS
+
 ## Tecnologias
 - *HTML5*
 - *CSS3*
